@@ -9,7 +9,7 @@ Badger, for stats, collects some data upon installing/updating/downgrading the t
 - iOS version the tweak is being installed on (ex with iOS 14.3, will log "14.3")
 - Device model the tweak is being installed on (ex on a iPad 6th Gen Wifi-Only model, it will log "J71bAP")
 - iOS build version the tweak is being installed on
-- **HASHED** ECID. Badger does *not* normally collect your ECID, rather it hashes it and sends the first few characters of that hash to us. (An example is that we can use this data to track how many installs of an update were new installs or existing users that update, how often existing users update the tweak, etc).
+- **HASHED** ECID. Badger does *not* normally collect your ECID, rather it hashes it and sends the first few characters of that hash to us. (An example is that we can use this data to track how many installs of an update were new installs or existing users that update, how often existing users update the tweak, etc without sending your raw ECID/UUID to us).
 - Attempts to detect if the device is rootless, and submits the result
 
 # Clarification
