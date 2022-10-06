@@ -1,4 +1,4 @@
-# BadgerPrivacyPolicy
+~~# BadgerPrivacyPolicy
 Privacy Policy for Badger
 
 Badger, for stats, collects some data upon installing/updating/downgrading the tweak. This data is not personal info, don't worry, just general data we use for stats and I've highlighted it all in here.
@@ -17,4 +17,6 @@ Badger, for stats, collects some data upon installing/updating/downgrading the t
 
 - We may potentially send less than the information listed here. (Example, not reflecting of everything this clarification is responsible for: If getting build version fails, Badger may not send it)
 
-- This privacy policy may potentially be modified in the future. Whenever you install/update badger, you are agreeing to the newest form of the Badger Privacy Policy that is in place at that point in time.
+- This privacy policy may potentially be modified in the future. Whenever you install/update badger, you are agreeing to the newest form of the Badger Privacy Policy that is in place at that point in time.~~
+
+Outdated, Badger does not collect any data for stats at the moment.
